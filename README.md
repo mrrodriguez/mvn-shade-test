@@ -11,7 +11,7 @@ Demonstrating issue described @ TODO
 
 FIXME: explanation
 
-    $ java -jar target/mvn-shade-test-0.1.0-SNAPSHOT.jar shade.ShadeJava
+    $ java -cp target/mvn-shade-test-0.1.0-SNAPSHOT.jar shade.ShadeJava
 
 ## Options
 
