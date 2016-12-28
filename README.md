@@ -1,16 +1,17 @@
 # mvn-shade-test
 
-FIXME: description
+Demonstrating issue described @ TODO
 
 ## Installation
 
-Download from http://example.com/FIXME.
+    $ lein install
+    $ mvn clean install
 
 ## Usage
 
 FIXME: explanation
 
-    $ java -jar mvn-shade-test-0.1.0-standalone.jar [args]
+    $ java -jar target/mvn-shade-test-0.1.0-SNAPSHOT.jar shade.ShadeJava
 
 ## Options
 
